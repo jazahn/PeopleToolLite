@@ -1,0 +1,892 @@
+{
+	"personList" : {
+		"person" : [ {
+			"personKey" : "2940935f3b990175",
+			"securityCategoryCode" : {
+				"code" : "A"
+			},
+			"eppn" : "2940935f3b990175",
+			"univId" : "12341234",
+			"adId" : "jac113",
+			"genderCode" : {
+				"code" : "M"
+			},
+			"birthDate" : "1980-11-17T00:00:00",
+			"effectiveStatusCode" : {
+				"code" : "A"
+			},
+			"effectiveDate" : "2007-12-21T02:32:17",
+			"privacyValueCode" : {
+				"code" : "5"
+			},
+			"updateDate" : "2013-03-18T22:08:28",
+			"nameList" : {
+				"name" : {
+					"personNameKey" : "2162790",
+					"personNameTypeCode" : {
+						"code" : "OFFICIAL"
+					},
+					"firstName" : "Jazahn",
+					"lastName" : "Clevenger",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"effectiveDate" : "2007-12-21T02:32:14",
+					"updateDate" : "2013-03-18T22:25:07"
+				}
+			},
+			"emailList" : {
+				"email" : [ {
+					"personEmailKey" : "1267452",
+					"privacyValueCode" : {
+						"code" : "5"
+					},
+					"emailUserName" : "jcleveng",
+					"emailDomainName" : "fas.harvard.edu",
+					"emailAddressSource" : "DCE",
+					"emailAddressType" : "HARVARD",
+					"officialEmailIndicator" : "1",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"effectiveDate" : "2009-06-15T03:47:57",
+					"updateDate" : "2013-03-18T23:46:03"
+				}, {
+					"personEmailKey" : "1446290",
+					"privacyValueCode" : {
+						"code" : "5"
+					},
+					"emailUserName" : "jcleveng",
+					"emailDomainName" : "fas.harvard.edu",
+					"emailAddressSource" : "HASCSOPS",
+					"emailAddressType" : "HARVARD",
+					"officialEmailIndicator" : "1",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"effectiveDate" : "2013-01-10T12:18:30",
+					"updateDate" : "2013-03-18T23:47:03"
+				}, {
+					"personEmailKey" : "1209703",
+					"privacyValueCode" : {
+						"code" : "5"
+					},
+					"emailUserName" : "jcleveng",
+					"emailDomainName" : "fas.harvard.edu",
+					"emailAddressSource" : "PORTAL",
+					"emailAddressType" : "HARVARD",
+					"officialEmailIndicator" : "1",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"effectiveDate" : "2008-01-09T15:10:03",
+					"updateDate" : "2013-03-18T23:45:49"
+				} ]
+			},
+			"addressList" : {
+				"address" : [ {
+					"addressKey" : "4663155",
+					"addressCategoryCode" : {
+						"code" : "HOME"
+					},
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"effectiveDate" : "2011-03-28T02:30:59",
+					"addressStreet1" : "123 Leet St",
+					"addressCity" : "Brookline",
+					"addressState" : "MA",
+					"addressCountryCode" : {
+						"code" : "USA"
+					},
+					"addressPostalCode" : "02446",
+					"privacyValueCode" : {
+						"code" : "1"
+					},
+					"updateDate" : "2013-03-18T22:35:30"
+				}, {
+					"addressKey" : "4557075",
+					"addressCategoryCode" : {
+						"code" : "MAIL"
+					},
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"effectiveDate" : "2009-06-15T03:47:57",
+					"addressStreet1" : "11 Oldie Cir #5",
+					"addressCity" : "Brookline",
+					"addressState" : "MA",
+					"addressCountryCode" : {
+						"code" : "USA"
+					},
+					"addressPostalCode" : "024453360",
+					"privacyValueCode" : {
+						"code" : "0"
+					},
+					"updateDate" : "2013-03-18T22:34:50"
+				}, {
+					"addressKey" : "4471049",
+					"addressCategoryCode" : {
+						"code" : "OFFI"
+					},
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"effectiveDate" : "2007-12-21T02:32:14",
+					"addressStreet1" : "Harvard, FAS Computer Services",
+					"addressStreet2" : "Science Ctr",
+					"addressStreet3" : "1 Oxford St",
+					"addressCity" : "Cambridge",
+					"addressState" : "MA",
+					"addressCountryCode" : {
+						"code" : "USA"
+					},
+					"addressPostalCode" : "02138",
+					"privacyValueCode" : {
+						"code" : "5"
+					},
+					"updateDate" : "2013-03-18T22:34:20"
+				} ]
+			},
+			"employeeRoleList" : {
+				"employeeRole" : [ {
+					"personRoleKey" : "1981022",
+					"roleTypeCode" : {
+						"code" : "EMPLOYEE"
+					},
+					"roleId" : "0",
+					"effectiveDate" : "2016-10-03T02:34:04",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"roleStartDate" : "2016-10-03T00:00:00",
+					"hireDate" : "2008-01-07T00:00:00",
+					"rehireDate" : "2008-01-07T00:00:00",
+					"departmentEntryDate" : "2016-10-03T00:00:00",
+					"primeRoleIndicator" : "1",
+					"academicPrimeRoleIndicator" : "0",
+					"roleTitle" : "Senior Developer",
+					"privacyValueCode" : {
+						"code" : "5"
+					},
+					"employmentStatusCode" : {
+						"code" : "A"
+					},
+					"employmentClassCode" : {
+						"code" : "A"
+					},
+					"peoplesoftCompany" : "HPF",
+					"payGroupCode" : {
+						"code" : "PFX"
+					},
+					"jobCode" : {
+						"code" : "384258"
+					},
+					"addressPeoplesoftLocationCode" : {
+						"code" : "H06033"
+					},
+					"unionCode" : {
+						"code" : "00"
+					},
+					"hrDeptKey" : "103623",
+					"updateDate" : "2016-10-03T02:34:04"
+				}, {
+					"personRoleKey" : "2608664",
+					"roleTypeCode" : {
+						"code" : "EMPLOYEE"
+					},
+					"roleId" : "1",
+					"effectiveDate" : "2016-09-08T02:35:52",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"roleStartDate" : "2016-09-01T00:00:00",
+					"hireDate" : "2015-01-01T00:00:00",
+					"rehireDate" : "2016-09-01T00:00:00",
+					"departmentEntryDate" : "2016-09-01T00:00:00",
+					"appointmentEndDate" : "2017-06-30T00:00:00",
+					"primeRoleIndicator" : "0",
+					"academicPrimeRoleIndicator" : "0",
+					"roleTitle" : "DCE Teaching Support",
+					"privacyValueCode" : {
+						"code" : "5"
+					},
+					"employmentStatusCode" : {
+						"code" : "A"
+					},
+					"employmentClassCode" : {
+						"code" : "B"
+					},
+					"peoplesoftCompany" : "HPF",
+					"payGroupCode" : {
+						"code" : "NPD"
+					},
+					"jobCode" : {
+						"code" : "700060"
+					},
+					"addressPeoplesoftLocationCode" : {
+						"code" : "H07260"
+					},
+					"unionCode" : {
+						"code" : "00"
+					},
+					"hrDeptKey" : "102662",
+					"updateDate" : "2016-09-08T02:35:52"
+				} ]
+			},
+			"studentRoleList" : {
+				"studentRole" : [ {
+					"personRoleKey" : "2309154",
+					"roleTypeCode" : {
+						"code" : "CLASPART"
+					},
+					"roleId" : "3",
+					"roleSource" : "DCE",
+					"effectiveDate" : "2010-02-09T03:45:47",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"primeRoleIndicator" : "0",
+					"roleTitle" : "Inactive class participant in the Div. of Cont. Ed., Extension School",
+					"roleStartDate" : "2009-08-28T00:00:00",
+					"roleEndDate" : "2010-02-08T00:00:00",
+					"privacyValueCode" : {
+						"code" : "0"
+					},
+					"schoolCode" : {
+						"code" : "EX"
+					},
+					"studentStatusCode" : {
+						"code" : "I "
+					},
+					"studentTimeStatusCode" : {
+						"code" : " "
+					},
+					"residentialHouseCode" : null,
+					"recordsLocationHouseCode" : null,
+					"boardLocationHouseCode" : null,
+					"boardStatusCode" : {
+						"code" : "N"
+					},
+					"studentYearCode" : null,
+					"degreeCode" : {
+						"code" : "XX"
+					},
+					"programCode" : null,
+					"studentDepartmentCode" : null,
+					"lastAttendanceDate" : "2010-02-08T00:00:00",
+					"updateDate" : "2013-03-19T00:44:15"
+				}, {
+					"personRoleKey" : "2309155",
+					"roleTypeCode" : {
+						"code" : "STUDENT"
+					},
+					"roleId" : "2",
+					"roleSource" : "DCE",
+					"effectiveDate" : "2010-02-09T03:45:48",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"primeRoleIndicator" : "1",
+					"roleTitle" : "Non-registered student from the Div. of Cont. Ed., Summer School",
+					"roleStartDate" : "2009-06-15T00:00:00",
+					"roleEndDate" : "2009-08-08T00:00:00",
+					"privacyValueCode" : {
+						"code" : "0"
+					},
+					"schoolCode" : {
+						"code" : "SU"
+					},
+					"studentStatusCode" : {
+						"code" : "NR"
+					},
+					"studentTimeStatusCode" : {
+						"code" : " "
+					},
+					"residentialHouseCode" : null,
+					"recordsLocationHouseCode" : null,
+					"boardLocationHouseCode" : null,
+					"boardStatusCode" : {
+						"code" : "N"
+					},
+					"studentYearCode" : null,
+					"degreeCode" : {
+						"code" : "XX"
+					},
+					"programCode" : null,
+					"studentDepartmentCode" : null,
+					"lastAttendanceDate" : "2009-08-24T00:00:00",
+					"updateDate" : "2013-03-19T00:44:15"
+				} ]
+			},
+			"poiRoleList" : {
+				"poiRole" : {
+					"personRoleKey" : "3237125",
+					"roleTypeCode" : {
+						"code" : "OTHER"
+					},
+					"roleId" : "1",
+					"effectiveDate" : "2016-11-15T13:25:27",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"roleStartDate" : "2015-01-31T00:00:00",
+					"roleEndDate" : "2016-03-31T00:00:00",
+					"primeRoleIndicator" : "0",
+					"roleTitle" : "Unknown",
+					"privacyValueCode" : {
+						"code" : "4"
+					},
+					"shortDescriptionLine1" : "Unknown",
+					"authInternalId" : "a05ad9e82ec8fa9d6743b3e679a46bc4",
+					"comments" : "Waveset Migration",
+					"updateDate" : "2016-11-15T13:25:27"
+				}
+			},
+			"locationList" : {
+				"location" : {
+					"personLocationKey" : "199551",
+					"personLocationTypeCode" : {
+						"code" : "OFFICE"
+					},
+					"listingCategory" : "E",
+					"listingId" : "1",
+					"location" : "1414 Mass. Ave.",
+					"locationIdentifier" : "3R",
+					"privacyValueCode" : {
+						"code" : "5"
+					},
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"effectiveDate" : "2016-09-30T15:51:39",
+					"updateDate" : "2016-09-30T15:51:39"
+				}
+			},
+			"phoneList" : {
+				"phone" : [ {
+					"phoneKey" : "715323",
+					"effectiveStatusCode" : {
+						"code" : "I"
+					},
+					"listingCategory" : "E",
+					"listingId" : "1",
+					"dataValue" : "6175551111",
+					"dataSubtype" : "OFFICE",
+					"dataType" : "FAX",
+					"privacyValueCode" : {
+						"code" : "5"
+					},
+					"effectiveDate" : "2016-09-30T15:51:39",
+					"updateDate" : "2016-09-30T15:51:39"
+				}, {
+					"phoneKey" : "715324",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"listingCategory" : "E",
+					"listingId" : "1",
+					"dataValue" : "6175551111",
+					"dataSubtype" : "OFFICE",
+					"dataType" : "PHONE",
+					"privacyValueCode" : {
+						"code" : "5"
+					},
+					"effectiveDate" : "2016-09-30T15:51:39",
+					"updateDate" : "2016-09-30T15:51:39"
+				}, {
+					"phoneKey" : "952854",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"listingCategory" : "S",
+					"listingId" : "1",
+					"dataValue" : "8565551234",
+					"dataSubtype" : "HOME",
+					"dataType" : "PHONE",
+					"privacyValueCode" : {
+						"code" : "1"
+					},
+					"effectiveDate" : "2009-06-15T03:47:57",
+					"updateDate" : "2013-03-18T23:27:10"
+				} ]
+			}
+		}, {
+			"personKey" : "acd3d0471e7ed078",
+			"securityCategoryCode" : {
+				"code" : "A"
+			},
+			"eppn" : "acd3d0471e7ed078",
+			"univId" : "12121212",
+			"adId" : "sal111",
+			"genderCode" : {
+				"code" : "F"
+			},
+			"birthDate" : "1975-04-13T00:00:00",
+			"effectiveStatusCode" : {
+				"code" : "A"
+			},
+			"effectiveDate" : "2016-01-06T02:37:06",
+			"privacyValueCode" : {
+				"code" : "5"
+			},
+			"deceasedFlag" : "N",
+			"updateDate" : "2016-01-06T02:37:07",
+			"nameList" : {
+				"name" : [ {
+					"personNameKey" : "3423733",
+					"personNameTypeCode" : {
+						"code" : "LISTING"
+					},
+					"firstName" : "Sally",
+					"lastName" : "Sparks",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"effectiveDate" : "2016-02-09T08:47:21",
+					"updateDate" : "2016-02-09T08:47:21"
+				}, {
+					"personNameKey" : "3304626",
+					"personNameTypeCode" : {
+						"code" : "OFFICIAL"
+					},
+					"prefix" : "Ms",
+					"firstName" : "HuoHua",
+					"lastName" : "Sparks",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"effectiveDate" : "2016-01-06T02:37:06",
+					"updateDate" : "2016-01-06T02:37:06"
+				} ]
+			},
+			"emailList" : {
+				"email" : [ {
+					"personEmailKey" : "2213638",
+					"privacyValueCode" : {
+						"code" : "5"
+					},
+					"emailUserName" : "sparky",
+					"emailDomainName" : "g.harvard.edu",
+					"emailAddressSource" : "PORTAL",
+					"emailAddressType" : "HARVARD",
+					"officialEmailIndicator" : "0",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"effectiveDate" : "2016-02-05T14:56:00",
+					"updateDate" : "2016-02-05T14:56:00"
+				}, {
+					"personEmailKey" : "2217158",
+					"privacyValueCode" : {
+						"code" : "5"
+					},
+					"emailUserName" : "sally_sparks",
+					"emailDomainName" : "harvard.edu",
+					"emailAddressSource" : "PORTAL",
+					"emailAddressType" : "HARVARD",
+					"officialEmailIndicator" : "1",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"effectiveDate" : "2016-02-09T09:05:08",
+					"updateDate" : "2016-02-09T09:05:08"
+				}, {
+					"personEmailKey" : "2165605",
+					"privacyValueCode" : {
+						"code" : "1"
+					},
+					"emailUserName" : "sparkysparks12",
+					"emailDomainName" : "gmail.com",
+					"emailAddressSource" : "ONBOARD",
+					"emailAddressType" : "ONBOARD",
+					"officialEmailIndicator" : "0",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"effectiveDate" : "2016-01-11T13:24:44",
+					"updateDate" : "2016-01-11T13:24:44"
+				}, {
+					"personEmailKey" : "2164760",
+					"privacyValueCode" : {
+						"code" : "5"
+					},
+					"emailUserName" : "huohua_sparks",
+					"emailDomainName" : "harvard.edu",
+					"emailAddressSource" : "PORTAL",
+					"emailAddressType" : "HARVARD",
+					"officialEmailIndicator" : "0",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"effectiveDate" : "2016-02-09T09:05:08",
+					"updateDate" : "2016-02-09T09:05:08"
+				} ]
+			},
+			"addressList" : {
+				"address" : [ {
+					"addressKey" : "5489415",
+					"addressCategoryCode" : {
+						"code" : "HOME"
+					},
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"effectiveDate" : "2016-01-06T02:37:06",
+					"addressStreet1" : "37 Telathot Ter",
+					"addressCity" : "Stratham",
+					"addressState" : "MA",
+					"addressCountryCode" : {
+						"code" : "USA"
+					},
+					"addressPostalCode" : "02188",
+					"privacyValueCode" : {
+						"code" : "1"
+					},
+					"updateDate" : "2016-01-06T02:37:07"
+				}, {
+					"addressKey" : "5489416",
+					"addressCategoryCode" : {
+						"code" : "OFFI"
+					},
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"effectiveDate" : "2016-01-06T02:37:06",
+					"addressStreet1" : "FAS - Harvard",
+					"addressStreet3" : "1414 Massachusetts Ave",
+					"addressCity" : "Cambridge",
+					"addressState" : "MA",
+					"addressCountryCode" : {
+						"code" : "USA"
+					},
+					"addressPostalCode" : "02138",
+					"privacyValueCode" : {
+						"code" : "5"
+					},
+					"updateDate" : "2016-01-06T02:37:07"
+				} ]
+			},
+			"employeeRoleList" : {
+				"employeeRole" : {
+					"personRoleKey" : "3284357",
+					"roleTypeCode" : {
+						"code" : "EMPLOYEE"
+					},
+					"roleId" : "0",
+					"effectiveDate" : "2016-02-10T02:34:53",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"roleStartDate" : "2016-01-11T00:00:00",
+					"hireDate" : "2016-01-11T00:00:00",
+					"rehireDate" : "2016-01-11T00:00:00",
+					"departmentEntryDate" : "2016-01-11T00:00:00",
+					"primeRoleIndicator" : "1",
+					"academicPrimeRoleIndicator" : "0",
+					"roleTitle" : "Senior Software Engineer",
+					"privacyValueCode" : {
+						"code" : "5"
+					},
+					"employmentStatusCode" : {
+						"code" : "A"
+					},
+					"employmentClassCode" : {
+						"code" : "A"
+					},
+					"peoplesoftCompany" : "HPF",
+					"payGroupCode" : {
+						"code" : "PFX"
+					},
+					"jobCode" : {
+						"code" : "384858"
+					},
+					"addressPeoplesoftLocationCode" : {
+						"code" : "H04420"
+					},
+					"unionCode" : {
+						"code" : "00"
+					},
+					"hrDeptKey" : "103589",
+					"updateDate" : "2016-02-10T02:34:53"
+				}
+			},
+			"locationList" : {
+				"location" : {
+					"personLocationKey" : "287596",
+					"personLocationTypeCode" : {
+						"code" : "OFFICE"
+					},
+					"listingCategory" : "E",
+					"listingId" : "1",
+					"location" : "1414 Mass. Ave.",
+					"locationIdentifier" : "1414 Mass Ave",
+					"privacyValueCode" : {
+						"code" : "5"
+					},
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"effectiveDate" : "2016-11-10T15:41:54",
+					"updateDate" : "2016-11-10T15:41:54"
+				}
+			},
+			"phoneList" : {
+				"phone" : [ {
+					"phoneKey" : "1068012",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"listingCategory" : "E",
+					"listingId" : "1",
+					"dataValue" : "6175550104",
+					"dataSubtype" : "OFFICE",
+					"dataType" : "PHONE",
+					"privacyValueCode" : {
+						"code" : "5"
+					},
+					"effectiveDate" : "2016-11-10T15:41:54",
+					"updateDate" : "2016-11-10T15:41:54"
+				}, {
+					"phoneKey" : "1045694",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"listingCategory" : "E",
+					"listingId" : "99",
+					"dataValue" : "7815550005",
+					"dataSubtype" : "HOME",
+					"dataType" : "PHONE",
+					"privacyValueCode" : {
+						"code" : "1"
+					},
+					"effectiveDate" : "2016-01-06T02:37:06",
+					"updateDate" : "2016-01-06T02:37:07"
+				} ]
+			}
+		}, {
+			"personKey" : "c2f8e8f8632a2cd8",
+			"securityCategoryCode" : {
+				"code" : "A"
+			},
+			"eppn" : "c2f8e8f8632a2cd8",
+			"univId" : "30303030",
+			"adId" : "kac022",
+			"genderCode" : {
+				"code" : "F"
+			},
+			"birthDate" : "1969-06-04T00:00:00",
+			"effectiveStatusCode" : {
+				"code" : "A"
+			},
+			"effectiveDate" : "2014-12-11T02:34:02",
+			"privacyValueCode" : {
+				"code" : "5"
+			},
+			"deceasedFlag" : "N",
+			"updateDate" : "2014-12-11T02:34:17",
+			"nameList" : {
+				"name" : [ {
+					"personNameKey" : "1738738",
+					"personNameTypeCode" : {
+						"code" : "LISTING"
+					},
+					"firstName" : "Katy",
+					"lastName" : "Carpenter",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"effectiveDate" : "2006-07-05T13:30:35",
+					"updateDate" : "2013-03-18T22:23:04"
+				}, {
+					"personNameKey" : "1851812",
+					"personNameTypeCode" : {
+						"code" : "OFFICIAL"
+					},
+					"firstName" : "Katy",
+					"lastName" : "Maplewood Carpenter",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"effectiveDate" : "2006-07-05T13:30:35",
+					"updateDate" : "2013-03-18T22:23:32"
+				} ]
+			},
+			"emailList" : {
+				"email" : [ {
+					"personEmailKey" : "1324218",
+					"privacyValueCode" : {
+						"code" : "5"
+					},
+					"emailUserName" : "carpenter",
+					"emailDomainName" : "fas.harvard.edu",
+					"emailAddressSource" : "PORTAL",
+					"emailAddressType" : "HARVARD",
+					"officialEmailIndicator" : "0",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"effectiveDate" : "2014-12-22T10:54:04",
+					"updateDate" : "2014-12-22T10:54:04"
+				}, {
+					"personEmailKey" : "1573261",
+					"privacyValueCode" : {
+						"code" : "5"
+					},
+					"emailUserName" : "kcarpent",
+					"emailDomainName" : "fas.harvard.edu",
+					"emailAddressSource" : "HASCSOPS",
+					"emailAddressType" : "HARVARD",
+					"officialEmailIndicator" : "1",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"effectiveDate" : "2014-12-22T10:54:04",
+					"updateDate" : "2014-12-22T10:54:04"
+				} ]
+			},
+			"addressList" : {
+				"address" : [ {
+					"addressKey" : "4069694",
+					"addressCategoryCode" : {
+						"code" : "HOME"
+					},
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"effectiveDate" : "2015-10-23T02:34:39",
+					"addressStreet1" : "180 Pond Drive, Apt #1",
+					"addressCity" : "Attlbrah",
+					"addressState" : "MA",
+					"addressCountryCode" : {
+						"code" : "USA"
+					},
+					"addressPostalCode" : "02464",
+					"privacyValueCode" : {
+						"code" : "2"
+					},
+					"updateDate" : "2015-10-23T02:34:39"
+				}, {
+					"addressKey" : "4924997",
+					"addressCategoryCode" : {
+						"code" : "OFFI"
+					},
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"effectiveDate" : "2015-11-18T02:34:45",
+					"addressStreet1" : "Harvard University",
+					"addressStreet2" : "5th Floor",
+					"addressStreet3" : "8 Story St",
+					"addressCity" : "Cambridge",
+					"addressState" : "MA",
+					"addressCountryCode" : {
+						"code" : "USA"
+					},
+					"addressPostalCode" : "02138",
+					"privacyValueCode" : {
+						"code" : "5"
+					},
+					"updateDate" : "2015-11-18T02:34:45"
+				} ]
+			},
+			"employeeRoleList" : {
+				"employeeRole" : {
+					"personRoleKey" : "2583354",
+					"roleTypeCode" : {
+						"code" : "EMPLOYEE"
+					},
+					"roleId" : "0",
+					"effectiveDate" : "2016-08-27T02:33:57",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"roleStartDate" : "2014-12-15T00:00:00",
+					"hireDate" : "2014-12-15T00:00:00",
+					"rehireDate" : "2014-12-15T00:00:00",
+					"departmentEntryDate" : "2014-12-15T00:00:00",
+					"primeRoleIndicator" : "1",
+					"academicPrimeRoleIndicator" : "0",
+					"roleTitle" : "Project Manager",
+					"privacyValueCode" : {
+						"code" : "5"
+					},
+					"employmentStatusCode" : {
+						"code" : "A"
+					},
+					"employmentClassCode" : {
+						"code" : "A"
+					},
+					"peoplesoftCompany" : "HPF",
+					"payGroupCode" : {
+						"code" : "PFX"
+					},
+					"jobCode" : {
+						"code" : "383657"
+					},
+					"addressPeoplesoftLocationCode" : {
+						"code" : "H06033"
+					},
+					"unionCode" : {
+						"code" : "00"
+					},
+					"hrDeptKey" : "103600",
+					"updateDate" : "2016-08-27T02:33:57"
+				}
+			},
+			"locationList" : {
+				"location" : {
+					"personLocationKey" : "284534",
+					"personLocationTypeCode" : {
+						"code" : "OFFICE"
+					},
+					"listingCategory" : "E",
+					"listingId" : "1",
+					"location" : "8 Story St.",
+					"locationIdentifier" : "500Q",
+					"privacyValueCode" : {
+						"code" : "5"
+					},
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"effectiveDate" : "2015-11-13T11:26:05",
+					"updateDate" : "2015-11-13T11:26:05"
+				}
+			},
+			"phoneList" : {
+				"phone" : [ {
+					"phoneKey" : "1043008",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"listingCategory" : "E",
+					"listingId" : "1",
+					"dataValue" : "6175558889",
+					"dataSubtype" : "OFFICE",
+					"dataType" : "PHONE",
+					"privacyValueCode" : {
+						"code" : "5"
+					},
+					"effectiveDate" : "2015-11-13T11:26:05",
+					"updateDate" : "2015-11-13T11:26:05"
+				}, {
+					"phoneKey" : "1020075",
+					"effectiveStatusCode" : {
+						"code" : "A"
+					},
+					"listingCategory" : "E",
+					"listingId" : "99",
+					"dataValue" : "3395550666",
+					"dataSubtype" : "MOBILE",
+					"dataType" : "PHONE",
+					"privacyValueCode" : {
+						"code" : "0"
+					},
+					"effectiveDate" : "2015-01-08T02:35:01",
+					"updateDate" : "2015-01-08T02:35:01"
+				} ]
+			}
+		} ]
+	}
+}
